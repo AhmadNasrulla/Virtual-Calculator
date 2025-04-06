@@ -1,4 +1,4 @@
-###🖐️ Virtual Calculator - Hand Gesture Controlled
+###🖐️ Virtual Calculator - Hand Gesture Controlled ###
 This is a Virtual Calculator built using OpenCV, cvzone, and Mediapipe, controlled by hand gestures using your webcam.
 
 📌 Features:
