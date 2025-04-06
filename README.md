@@ -9,14 +9,14 @@ This is a **Virtual Calculator** built using **OpenCV**, **cvzone**, and **Media
 - ✅ Hover effect when the index finger is over a button
 - ✌️ Pinch gesture (index + middle finger) to select a button
 - 🧮 Fully functional calculator layout drawn using OpenCV
-- 🧼 Clear (`C`) and `ESC` (backspace) buttons included
+- 🧼 Clear (`CC`) and `C` (backspace) buttons included
 - 🖥️ Real-time input using hand tracking via webcam
 
 ---
 
 ## 📦 Requirements
 
-> ✅ **Recommended Python Version:** 3.7 to 3.11
+> ✅ **Recommended Python Version:** 3.7 to 3.10
 
 ---
 
@@ -60,8 +60,8 @@ A webcam window will open. Show your hand to the camera, hover over the calculat
 |----------------------------|----------------------------|
 | ☝️ Hover (index finger)     | Highlights button           |
 | ✌️ Pinch (index + middle)   | Click the button            |
-| 🧼 Press `C` button         | Clear the equation          |
-| 🗑️ Press `ESC` button       | Delete last character       |
+| 🧼 Press `CC` button         | Clear the equation          |
+| 🗑️ Press `C` button       | Delete last character       |
 | ➕ Press `=` button         | Evaluate the expression     |
 | ❌ Press `q` on keyboard    | Quit the app                |
 
