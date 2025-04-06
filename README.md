@@ -1,95 +1,104 @@
-###🖐️ Virtual Calculator - Hand Gesture Controlled ###
-This is a Virtual Calculator built using OpenCV, cvzone, and Mediapipe, controlled by hand gestures using your webcam.
+# 🖐️ Virtual Calculator - Hand Gesture Controlled
 
-📌 Features:
+This is a **Virtual Calculator** built using **OpenCV**, **cvzone**, and **MediaPipe**, controlled by **hand gestures** through your webcam.
 
-Hover effect when index finger is over a button
+---
 
-"Pinch" gesture (index + middle finger) to click
+## ✨ Features
 
-Virtual calculator layout rendered via OpenCV
+- ✅ Hover effect when the index finger is over a button
+- ✌️ Pinch gesture (index + middle finger) to select a button
+- 🧮 Fully functional calculator layout drawn using OpenCV
+- 🧼 Clear (`C`) and `ESC` (backspace) buttons included
+- 🖥️ Real-time input using hand tracking via webcam
 
-Clear (CC) and Erase (C) buttons
+---
 
-Real-time input using hand gestures
+## 📦 Requirements
 
-📦 Requirements
-Python version: 3.7 – 3.10 recommended
+> ✅ **Recommended Python Version:** 3.7 to 3.11
 
-🔧 Installation Steps
-Clone the repository
+---
 
-bash
-Copy
-Edit
-git clone https://github.com/YOUR_USERNAME/virtual-calculator.git
+## 🔧 Installation Guide
+
+### 🔁 1. Clone the Repository
+
+```bash
+git clone https://github.com/AhmadNasrulla/Virtual-Calculator.git
 cd virtual-calculator
-Create a virtual environment
+```
 
-bash
-Copy
-Edit
+### 🧪 2. Create a Virtual Environment
+```bash
 python -m venv venv
-Activate the virtual environment
+```
+### ⚡ 3. Activate the Virtual Environment
 
-On Windows:
-
-bash
-Copy
-Edit
+**Windows:**
+```bash
 venv\Scripts\activate
-On Mac/Linux:
-
-bash
-Copy
-Edit
+```
+**Mac/Linux:**
+```bash
 source venv/bin/activate
-Install required libraries
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-If you don’t have a requirements.txt, create one using:
-
-bash
-Copy
-Edit
+```
+### Install Library
+```bash
 pip install opencv-python cvzone mediapipe numpy
-pip freeze > requirements.txt
-▶️ How to Run
-After activating your virtual environment and installing the dependencies:
+```
 
-bash
-Copy
-Edit
-python chatgpt.py
-A window will open using your webcam. Show your hand, hover over calculator buttons with your index finger, and "pinch" with your middle finger to press.
+### ▶️ How to Run the App
+```bash
+python main.py
+```
+A webcam window will open. Show your hand to the camera, hover over the calculator with your index finger, and pinch your index and middle finger to "press" a button.
 
-📸 Controls
-Gesture	Action
-Pinch (Index + Middle finger)	Click button
-Hover (Index finger)	Highlights button
-CC	Clears the equation
-C  	Removes last character
-=	  Evaluates the result
-q   (keyboard)	Quits the app
+## 🎮 Controls
 
-🛠 Tech Stack
-  Python
-  OpenCV
-  cvzone
-  MediaPipe
+| Gesture / Action           | Function                   |
+|----------------------------|----------------------------|
+| ☝️ Hover (index finger)     | Highlights button           |
+| ✌️ Pinch (index + middle)   | Click the button            |
+| 🧼 Press `C` button         | Clear the equation          |
+| 🗑️ Press `ESC` button       | Delete last character       |
+| ➕ Press `=` button         | Evaluate the expression     |
+| ❌ Press `q` on keyboard    | Quit the app                |
 
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
+---
 
-📜 License
-This project is licensed under the MIT License.
+## 🧠 Tech Stack
 
-Let me know if you'd like me to:
-Add demo GIF/screenshots
-Update with your GitHub repo link
-Help deploy it or convert to a .exe
+- [Python](https://www.python.org/)
+- [OpenCV](https://opencv.org/)
+- [cvzone](https://github.com/cvzone/cvzone)
+- [MediaPipe](https://mediapipe.dev/)
+- [NumPy](https://numpy.org/)
 
-Happy coding! 🚀
+---
+
+
+---
+
+## 🤝 Contributing
+
+Pull requests and contributions are welcome!  
+If you'd like to add new features or fix bugs, feel free to fork this repo and submit a PR.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+Feel free to use and modify it for personal or educational purposes.
+
+---
+
+## 📸 Demo Preview
+
+> Nothing Here!
+---
+
+## 👨‍💻 Developed by Ahmad
+
+Feel free to connect and share feedback!
