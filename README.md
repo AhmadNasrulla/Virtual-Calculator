@@ -26,7 +26,7 @@ This is a **Virtual Calculator** built using **OpenCV**, **cvzone**, and **Media
 
 ```bash
 git clone https://github.com/AhmadNasrulla/Virtual-Calculator.git
-cd virtual-calculator
+cd Virtual-Calculator
 ```
 
 ### 🧪 2. Create a Virtual Environment
