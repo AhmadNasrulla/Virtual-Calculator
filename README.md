@@ -24,6 +24,11 @@ This is a **Virtual Calculator** built using **OpenCV**, **cvzone**, and **Media
 
 ### 🔁 1. Clone the Repository
 
+**Download**
+```bash
+https://github.com/AhmadNasrulla/Virtual-Calculator
+```
+**OR**
 ```bash
 git clone https://github.com/AhmadNasrulla/Virtual-Calculator.git
 cd Virtual-Calculator
@@ -99,6 +104,6 @@ Feel free to use and modify it for personal or educational purposes.
 > Nothing Here!
 ---
 
-## 👨‍💻 Developed by Ahmad
+## 👨‍💻 Developed by Ahmad Nasrullah
 
 Feel free to connect and share feedback!
