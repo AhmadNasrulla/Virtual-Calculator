@@ -24,15 +24,17 @@ This is a **Virtual Calculator** built using **OpenCV**, **cvzone**, and **Media
 
 ### 🔁 1. Clone the Repository
 
-**Download**
-```bash
-https://github.com/AhmadNasrulla/Virtual-Calculator
-```
-**OR**
+
 ```bash
 git clone https://github.com/AhmadNasrulla/Virtual-Calculator.git
 cd Virtual-Calculator
 ```
+**OR**
+**Download**
+```bash
+https://github.com/AhmadNasrulla/Virtual-Calculator
+```
+
 
 ### 🧪 2. Create a Virtual Environment
 ```bash
